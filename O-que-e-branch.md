@@ -158,7 +158,3 @@ Aqui está um exemplo de fluxo de trabalho comum usando branches:
 ## Conclusão
 
 Branches são uma maneira poderosa de organizar seu fluxo de trabalho, especialmente em projetos colaborativos. Elas permitem que você trabalhe em múltiplas funcionalidades simultaneamente sem causar conflitos no código principal.
-
----
-
-Esse arquivo oferece uma introdução clara e objetiva ao uso de branches no Git.

@@ -44,7 +44,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
----
-
-Isso deve dar uma boa introdução ao seu repositório de curso no GitHub.

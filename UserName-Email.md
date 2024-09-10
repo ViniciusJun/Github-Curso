@@ -66,7 +66,3 @@ git config user.email "outro-email@example.com"
 ```
 
 Agora seu Git está configurado corretamente e pronto para ser usado!
-
----
-
-Isso deve ser um bom guia básico em formato `.md` para seu repositório GitHub.
